@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PAGES/НАЧАЛО РАБОТЫ/Необходимые инструменты С++.md",
+                "file": "Geode SDK.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "3a21cf6df7a289bb",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PAGES/НАЧАЛО РАБОТЫ/Необходимые инструменты С++.md",
+                "file": "Geode SDK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PAGES/НАЧАЛО РАБОТЫ/Необходимые инструменты С++.md",
+                "file": "Geode SDK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PAGES/НАЧАЛО РАБОТЫ/Необходимые инструменты С++.md"
+                "file": "Geode SDK.md"
               }
             }
           }
@@ -197,11 +197,11 @@
   },
   "active": "5576649057c71ee0",
   "lastOpenFiles": [
-    "PAGES/НАЧАЛО РАБОТЫ/Начальные Требования.md",
+    "README.md",
     "Geode SDK.md",
     "PAGES/Начало Работы.md",
-    "README.md",
     "PAGES/НАЧАЛО РАБОТЫ/Необходимые инструменты С++.md",
+    "PAGES/НАЧАЛО РАБОТЫ/Начальные Требования.md",
     "Содержание.md",
     "123.md",
     "PAGES/НАЧАЛО РАБОТЫ/Без названия.md",
